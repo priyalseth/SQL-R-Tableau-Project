@@ -102,22 +102,20 @@ SQL-R-Tableau-Project/
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 - Automate data pipeline (SQL → R → Tableau)
 - Add machine learning forecasting (e.g., ARIMA, Prophet)
 - Include real-time data updates via APIs
 
 ---
 
-## 🧑‍💻 Author
+## Author
 **[Priyal Seth](https://github.com/priyalseth)**  
 Data Analytics & AI Enthusiast  
 📫 Connect via GitHub for collaboration or feedback.
 
 ---
 
-## 🏷️ Tags
+##  Tags
 `#DataAnalytics` `#SQL` `#R` `#Tableau` `#Forecasting` `#Sustainability` `#EnergyTrends`
 
-
-## 📂 Repository Structure
