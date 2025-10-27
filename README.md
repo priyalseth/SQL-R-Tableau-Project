@@ -1,5 +1,5 @@
 #  Global Data on Sustainable Energy (2000–2020)
-##SQL-R-Tableau Project
+**SQL-R-Tableau Project**
 
 ##  Overview
 This project explores **global sustainable energy trends** from 2000 to 2020, focusing on energy consumption, renewable sources, and forecasting future energy patterns.  
